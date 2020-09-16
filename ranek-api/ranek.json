@@ -1,0 +1,563 @@
+{
+  "transacao": [
+    {
+      "comprador_id": "eduardo@email.com",
+      "vendedor_id": "thur@email.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "thur@email.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse  e um novo notebook",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "06656380",
+        "rua": "Rua Irene Quatrine Coelho",
+        "numero": "22",
+        "bairro": "Jardim da Rainha",
+        "cidade": "Itapevi",
+        "estado": "SP"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "thur@email.com",
+      "vendedor_id": "thur@email.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "thur@email.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse  e um novo notebook",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "123123123",
+        "rua": "Rua Ali Perto",
+        "numero": "25",
+        "bairro": "",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 2
+    }
+  ],
+  "usuario": [
+    {
+      "id": "thur@email.com",
+      "email": "thur@email.com",
+      "nome": "Arthur Lima",
+      "senha": "123",
+      "rua": "Rua Ali Perto",
+      "cep": "123123123",
+      "numero": "25",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "eduardo@email.com",
+      "nome": "eduardo",
+      "email": "eduardo@email.com",
+      "senha": "123123",
+      "cep": "06656380",
+      "rua": "Rua Irene Quatrine Coelho",
+      "numero": "22",
+      "bairro": "Jardim da Rainha",
+      "cidade": "Itapevi",
+      "estado": "SP"
+    },
+    {
+      "id": "maria@email.com",
+      "nome": "maria",
+      "email": "maria@email.com",
+      "senha": "123123",
+      "cep": "06454070",
+      "rua": "Alameda Amazonas",
+      "numero": "33",
+      "bairro": "Alphaville Centro Industrial e Empresarial/Alphaville.",
+      "cidade": "Barueri",
+      "estado": "SP"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "thur@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "thur@email.com",
+      "preco": "6999",
+      "vendido": "false",
+      "descricao": "Esse  e um novo smartphone",
+      "fotos": null
+    },
+    {
+      "nome": "mabook",
+      "preco": "20000",
+      "descricao": "testes",
+      "fotos": null,
+      "usuario_id": "eduardo@email.com",
+      "id": "41IFf-I"
+    },
+    {
+      "nome": "testes",
+      "preco": "39",
+      "descricao": "testes",
+      "fotos": null,
+      "vendido": "false",
+      "usuario_id": "thur@email.com",
+      "id": "he4j0TX"
+    },
+    {
+      "nome": "testes",
+      "preco": "4000",
+      "descricao": "testes",
+      "fotos": null,
+      "vendido": "false",
+      "usuario_id": "eduardo@email.com",
+      "id": "soeYbyS"
+    }
+  ]
+}
